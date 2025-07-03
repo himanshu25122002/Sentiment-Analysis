@@ -44,7 +44,7 @@ Sentiment prediction and visual analysis of review texts:
 
 ---
 
-## 🎯 Impact & Use Cases of the Sentiment Analysis Project:
+## 🎯 Impact
 
 - 🛒 Improves Customer Experience: Helps businesses understand user sentiment in reviews to tailor services and respond to dissatisfaction early.
 
